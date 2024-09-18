@@ -1,7 +1,1 @@
-// main.cpp
-#include <iostream>
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+[![CI](https://github.com/yoyeng83/Assignment-6/actions/workflows/blank.yml/badge.svg)](https://github.com/yoyeng83/Assignment-6/actions/workflows/blank.yml)
